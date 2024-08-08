@@ -1,4 +1,4 @@
-import React, { useState, ChangeEvent, useEffect } from 'react';
+import React, { useState, ChangeEvent } from 'react';
 import { Place } from '../types/Place';
 
 const MAPBOX_GEOCODING_API_URL = 'https://api.mapbox.com/geocoding/v5/mapbox.places';
